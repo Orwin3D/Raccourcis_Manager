@@ -1,0 +1,1 @@
+Voici le première version Open Source sous Licence MIT de Raccourcis Manager.
