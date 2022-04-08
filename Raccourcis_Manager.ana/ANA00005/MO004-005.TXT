@@ -1,0 +1,10 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Raccourci	R_CTRL	CLEN*		la rubrique R_CTRL est maintenant une clé
+Raccourci	R_FN	CLEN*		la rubrique R_FN est maintenant une clé
+Raccourci	R_ALT	CLEN*		la rubrique R_ALT est maintenant une clé
+Raccourci	R_SHIFT	CLEN*		la rubrique R_SHIFT est maintenant une clé
+Raccourci	R_MAJ	CLEN*		la rubrique R_MAJ est maintenant une clé
+Raccourci	R_TAB	CLEN*		la rubrique R_TAB est maintenant une clé
+Raccourci	R_IMPR	CLEN*		la rubrique R_IMPR est maintenant une clé
+Raccourci	R_SUPPR	CLEN*		la rubrique R_SUPPR est maintenant une clé
+Raccourci	R_Lettre	CLEN*		la rubrique R_Lettre est maintenant une clé

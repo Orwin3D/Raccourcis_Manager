@@ -1,0 +1,14 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Raccourci		TAR	3050	nouvelle taille enregistrement : 3050
+Raccourci	R_F1	RUB+		R_F1 est une nouvelle clé
+Raccourci	R_F2	RUB+		R_F2 est une nouvelle clé
+Raccourci	R_F3	RUB+		R_F3 est une nouvelle clé
+Raccourci	R_F4	RUB+		R_F4 est une nouvelle clé
+Raccourci	R_F5	RUB+		R_F5 est une nouvelle clé
+Raccourci	R_F6	RUB+		R_F6 est une nouvelle clé
+Raccourci	R_F7	RUB+		R_F7 est une nouvelle clé
+Raccourci	R_F8	RUB+		R_F8 est une nouvelle clé
+Raccourci	R_F9	RUB+		R_F9 est une nouvelle clé
+Raccourci	R_F10	RUB+		R_F10 est une nouvelle clé
+Raccourci	R_F11	RUB+		R_F11 est une nouvelle clé
+Raccourci	R_F12	RUB+		R_F12 est une nouvelle clé

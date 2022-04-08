@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Raccourci		TAR	2035	nouvelle taille enregistrement : 2035
+Raccourci	Raccourci_Logiciel	RUB+		Raccourci_Logiciel est une nouvelle clé

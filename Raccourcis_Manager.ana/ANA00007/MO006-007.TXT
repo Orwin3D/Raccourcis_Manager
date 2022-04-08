@@ -1,0 +1,2 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Raccourci	Type	CNW	Booléen$Entier non signé sur 1 octet	la rubrique Type a pour nouveau type Booléen

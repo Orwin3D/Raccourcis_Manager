@@ -1,0 +1,10 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+Raccourci		TAR	1034	nouvelle taille enregistrement : 1034
+Raccourci	R_FN	RUB+		R_FN est une nouvelle rubrique
+Raccourci	R_ALT	RUB+		R_ALT est une nouvelle rubrique
+Raccourci	R_SHIFT	RUB+		R_SHIFT est une nouvelle rubrique
+Raccourci	R_MAJ	RUB+		R_MAJ est une nouvelle rubrique
+Raccourci	R_TAB	RUB+		R_TAB est une nouvelle rubrique
+Raccourci	R_IMPR	RUB+		R_IMPR est une nouvelle rubrique
+Raccourci	R_SUPPR	RUB+		R_SUPPR est une nouvelle rubrique
+Raccourci	R_Lettre	RUB+		R_Lettre est une nouvelle rubrique

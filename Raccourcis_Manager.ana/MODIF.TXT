@@ -1,0 +1,3 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Raccourci		TAR	3051	nouvelle taille enregistrement : 3051
+Raccourci	R_FOCUS	RUB+		R_FOCUS est une nouvelle clé

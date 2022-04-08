@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Raccourci		TAR	3036	nouvelle taille enregistrement : 3036
+Raccourci	R_Application	RUB+		R_Application est une nouvelle clé
